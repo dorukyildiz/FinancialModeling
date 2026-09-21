@@ -271,7 +271,7 @@ print(years)
 #Use a while loop that subtracts payment from balance each round and prints the remaining balance, stopping once balance <= 0.
 
 balance = 5000
-payment= 450
+payment = 450
 
 
 while balance > 0:
